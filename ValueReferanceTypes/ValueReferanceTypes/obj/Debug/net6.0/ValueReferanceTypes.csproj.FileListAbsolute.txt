@@ -1,0 +1,14 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\bin\Debug\net6.0\ValueReferanceTypes.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\bin\Debug\net6.0\ValueReferanceTypes.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\bin\Debug\net6.0\ValueReferanceTypes.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\bin\Debug\net6.0\ValueReferanceTypes.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\bin\Debug\net6.0\ValueReferanceTypes.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\obj\Debug\net6.0\ValueReferanceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\obj\Debug\net6.0\ValueReferanceTypes.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\obj\Debug\net6.0\ValueReferanceTypes.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\obj\Debug\net6.0\ValueReferanceTypes.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\obj\Debug\net6.0\ValueReferanceTypes.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\obj\Debug\net6.0\refint\ValueReferanceTypes.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\obj\Debug\net6.0\ValueReferanceTypes.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\obj\Debug\net6.0\ValueReferanceTypes.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\ValueReferanceTypes\ValueReferanceTypes\obj\Debug\net6.0\ref\ValueReferanceTypes.dll
