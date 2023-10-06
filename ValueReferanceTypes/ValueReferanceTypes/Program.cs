@@ -6,63 +6,47 @@ namespace ValueReferanceTypes
     {
         static void Main(string[] args)
         {
-            //Console.Write("Write some string value: ");
-            //GetConsoleValue(Console.ReadLine());
-            Console.WriteLine("<===============>");
+            GetConsoleValue();
 
-            //Console.Write("Enter the first number: ");
-            //string num1 = Console.ReadLine();
-            //Console.Write("Enter the second number: ");
-            //string num2 = Console.ReadLine();
+            int[] numbers = { 1, 2, 3, 4, 5 };
+            AddElementToArr(ref numbers, 12);
+            foreach (var item in numbers)
+            {
+                Console.WriteLine(item);
+            }
 
-            //SumOfNums(num1, num2);
-            Console.WriteLine("<===============>");
-
-            //int[] numArr = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            //int numValAdd = 10;
-
-            //AddElementToArr(ref numArr, numValAdd);
-
-            //foreach (int i in numArr)
-            //{
-            //    Console.WriteLine(numArr[i]);
-            //}
-
-            Console.WriteLine("<===============>");
 
 
         }
         //Methodlariniz olur(3 dene). Consoledan deyer goturen method,
         //deyerin int olub olmadigini yoxlayan method, ve cemleyen method(eger her 2si de int ededdirse)
         #region ThreeMethod
-        static void GetConsoleValue(string consoleStr)
+        static void GetConsoleValue()
         {
-            Console.WriteLine($"Console Output: {consoleStr}");
-
-            IntOrNot(consoleStr);
+            Console.Write("Enter the first input: ");
+            string word1 = Console.ReadLine();
+            Console.Write("Enter the second input: ");
+            string word2 = Console.ReadLine();
+            Console.WriteLine($"Console Output: {word1} , {word2}");
+            IntOrNot(word1, word2);
         }
-        static void IntOrNot(string consoleVal)
+        static void IntOrNot(string consoleVal1, string consoleVal2)
         {
-            if (int.TryParse(consoleVal, out int result))
+            bool val1 = int.TryParse(consoleVal1, out int result1);
+            bool val2 = int.TryParse(consoleVal2, out int result2);
+            if (val1 && val2)
             {
-                Console.WriteLine("The input is an integer: " + result);
+                Console.WriteLine($"The input {result1} and {result2} is an integer");
             }
             else
             {
-                Console.WriteLine("The input is not an integer.");
+                Console.WriteLine("The inputs is not an integer.");
             }
-
+            Console.WriteLine("Sum of numbers:" + SumOfNums(result1, result2));
         }
-        static void SumOfNums(string num1, string num2)
+        static int SumOfNums(int num1, int num2)
         {
-            if (int.TryParse(num1, out int result1) && int.TryParse(num2, out int result2))
-            {
-                Console.WriteLine($"sum of the Numbers: {result2 + result1}");
-            }
-            else
-            {
-                Console.WriteLine("The input is not an integer.");
-            }
+            return num1 + num2;
         }
         #endregion
         //Parameter olaraq integer array variable-i (reference) ve bir integer value qebul eden

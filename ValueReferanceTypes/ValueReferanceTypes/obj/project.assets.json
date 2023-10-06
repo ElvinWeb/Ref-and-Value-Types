@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ValueReferanceTypes\\ValueReferanceTypes\\ValueReferanceTypes.csproj",
+      "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ReferancesAndValues\\ValueReferanceTypes\\ValueReferanceTypes\\ValueReferanceTypes.csproj",
       "projectName": "ValueReferanceTypes",
-      "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ValueReferanceTypes\\ValueReferanceTypes\\ValueReferanceTypes.csproj",
+      "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ReferancesAndValues\\ValueReferanceTypes\\ValueReferanceTypes\\ValueReferanceTypes.csproj",
       "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ValueReferanceTypes\\ValueReferanceTypes\\obj\\",
+      "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\ReferancesAndValues\\ValueReferanceTypes\\ValueReferanceTypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
